@@ -1,8 +1,8 @@
 {
   "equipo": "G00",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
+    { "nombre": "Ashly Veliz", "codigo": "202210422" },
+    { "nombre": "Oriana Manrique", "codigo": "202320149" },
     { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
   ]
 }
